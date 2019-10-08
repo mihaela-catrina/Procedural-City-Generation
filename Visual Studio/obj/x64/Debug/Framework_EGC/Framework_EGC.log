@@ -1,0 +1,36 @@
+﻿  CityView.cpp
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(91): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(157): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(199): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(201): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(205): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(214): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(216): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(220): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(230): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(232): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(236): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(246): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(248): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(252): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(261): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(263): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(267): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(403): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(404): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(410): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(412): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(418): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(420): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(427): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(428): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mihaela\desktop\framework-egc-master\source\teme\tema3\cityview.cpp(189): warning C4715: 'CityView::generateBuildingBetweenCoord': not all control paths return a value
+  Framework_EGC.vcxproj -> C:\Users\Mihaela\Desktop\Framework-EGC-master\Visual Studio\..\x64\Debug\Framework_EGC.exe
+  A subdirectory or file C:\Users\Mihaela\Desktop\Framework-EGC-master\Visual Studio\scripts\..\..\x64\Debug already exists.
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
